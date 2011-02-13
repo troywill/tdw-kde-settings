@@ -1,0 +1,34 @@
+[$Version]
+update_info=ksmserver.upd:kde3
+
+[General]
+screenCount=1
+
+[LegacySession: saved at previous logout]
+clientMachine1=localhost
+command1=chromium
+count=1
+
+[Session: saved at previous logout]
+clientId1=10e0ed686f000129755830600000015850000
+clientId2=10e0ed686f000129755830800000015850001
+clientId3=10e0ed686f000129755834400000015850021
+count=3
+discardCommand1[$e]=rm,$HOME/.kde4/share/config/session/kwin_10e0ed686f000129755830600000015850000_1297558909_31014
+discardCommand2[$e]=\\0
+discardCommand3[$e]=rm,$HOME/.kde4/share/config/session/kmix_10e0ed686f000129755834400000015850021_1297558908_573755
+program1=kwin
+program2=/usr/bin/kactivitymanagerd
+program3=/usr/bin/kmix
+restartCommand1=kwin,-session,10e0ed686f000129755830600000015850000_1297558909_31014
+restartCommand2=/usr/bin/kactivitymanagerd,-session,10e0ed686f000129755830800000015850001_1297558908_561344
+restartCommand3=/usr/bin/kmix,-session,10e0ed686f000129755834400000015850021_1297558908_573755
+restartStyleHint1=0
+restartStyleHint2=0
+restartStyleHint3=0
+userId1=troy
+userId2=troy
+userId3=troy
+wasWm1=true
+wasWm2=false
+wasWm3=false

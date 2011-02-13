@@ -1,0 +1,3 @@
+[main Settings]
+Storage Dir[$e]=$HOME/.kde4/share/apps/nepomuk/repository/main/
+Used Soprano Backend=virtuosobackend

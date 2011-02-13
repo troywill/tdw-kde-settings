@@ -1,0 +1,15 @@
+[$Version]
+update_info=plasma_popupapplet_fix_groups.upd:PlasmaPopupAppletFixGroups2
+
+[PlasmaViews][1]
+panelVisibility=0
+
+[PlasmaViews][1][Sizes]
+lastsize=1280
+
+[Updates]
+performed=/usr/share/apps/plasma-desktop/updates/systray-to-notifications-widget.js
+
+[ViewIds]
+1=2
+3=1
